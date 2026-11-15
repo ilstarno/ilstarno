@@ -1,25 +1,23 @@
 # Indrit Zeqiri
 
-Software architect and engineer based in Tirana, Albania.
+Staff Engineer and Technical Lead based in Tirana, Albania.
 
-I work on distributed systems, backend infrastructure, security, and enterprise software.
+I design and build enterprise software, lead engineering work, and remain involved in implementation and production operations.
 
-My experience includes payment and enrollment platforms, digital identity and electronic signatures, real-time communications, and infrastructure services.
+My work includes enrollment and payment systems, customer management, document signing, digital identity, and real-time communications. I work with existing teams to understand the problem, decide what needs to change, and deliver the solution.
 
-I work primarily with Go, Rust, and Java, with C, C++, and Zig where appropriate.
+## Current work
 
-## Selected projects
+At 160 Driving Academy, I work across the systems supporting enrollment and business operations. Recent work includes replacing third-party services with software built for the company's requirements. A replacement for DocuSign is currently in progress.
 
-**[Zark-WAF](https://github.com/Zark-WAF)**
+My responsibilities cover technical decisions, implementation, integration with existing systems, and production reliability.
 
-Web application firewall developed using Rust, C, and Go.
+## Previous work
 
-**[pgShield](https://github.com/pgShield)**
+I've worked on electronic signatures and identity verification for regulated European services, communications systems for contact centers, and logistics software.
 
-PostgreSQL connection pooling project.
+I work mainly with Java, Go, and Rust, alongside cloud infrastructure and the databases and services these systems depend on.
 
-## Background
-
-I've worked on software for education, digital identity, telecommunications, and logistics, covering architecture, implementation, deployment, and production operations.
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/indrit-z-3b6b8ba6/) | [Email](mailto:indrit.zeqiri@gmail.com)
