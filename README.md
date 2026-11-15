@@ -1,13 +1,11 @@
 # Indrit Zeqiri
 
-Enterprise software architecture and engineering.
+I help businesses spend less on software without sacrificing speed or reliability.
 
-I design and deliver systems that reduce operating costs, keep response times predictable, and remain reliable under production workloads. The work ranges from replacing costly third-party platforms to integrating existing applications and rebuilding services that have become difficult to maintain or scale.
+That can mean replacing an expensive service, connecting systems that don't work well together, or fixing software that's become slow and costly to run.
 
-My background includes payment and enrollment platforms, customer management, electronic signatures, digital identity, and real-time communications. I work across system design, implementation, technical leadership, and production operations.
+I've worked on payments, customer management, document signing, identity verification, and communications. I lead technical work and write code, from the first assessment through to a working system.
 
-I approach each project by examining the existing system, its costs, dependencies, and failure points. Sometimes the right solution is an integration or a targeted change rather than a replacement. When replacement makes sense, I take responsibility for the engineering and the transition into production.
-
-The systems I build use Java, Go, Rust, and established cloud and infrastructure technologies, selected according to the requirements rather than a preferred stack.
+I don't assume everything needs to be rebuilt. The first job is to understand what's costing money, what's causing problems, and what can be improved without unnecessary disruption.
 
 [LinkedIn](https://www.linkedin.com/in/indrit-z-3b6b8ba6/)
