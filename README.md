@@ -1,5 +1,3 @@
-# Indrit Zeqiri
-
 Enterprise software engineering focused on reducing costs, improving reliability, and keeping systems fast.
 
 Experience includes replacing expensive software services, connecting business systems, and improving applications that have become difficult or costly to operate.
