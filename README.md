@@ -1,11 +1,11 @@
 # Indrit Zeqiri
 
-I help businesses spend less on software without sacrificing speed or reliability.
+Enterprise software engineering focused on reducing costs, improving reliability, and keeping systems fast.
 
-That can mean replacing an expensive service, connecting systems that don't work well together, or fixing software that's become slow and costly to run.
+Experience includes replacing expensive software services, connecting business systems, and improving applications that have become difficult or costly to operate.
 
-I've worked on payments, customer management, document signing, identity verification, and communications. I lead technical work and write code, from the first assessment through to a working system.
+Work delivered across payments, customer management, document signing, identity verification, and communications. From evaluating the existing setup to building, integrating, and maintaining the replacement.
 
-I don't assume everything needs to be rebuilt. The first job is to understand what's costing money, what's causing problems, and what can be improved without unnecessary disruption.
+The approach is practical: keep what works, fix what doesn't, and replace only what makes financial and operational sense.
 
 [LinkedIn](https://www.linkedin.com/in/indrit-z-3b6b8ba6/)
